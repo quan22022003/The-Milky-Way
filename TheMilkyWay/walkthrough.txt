@@ -1,0 +1,79 @@
+The Milky Way Walkthrough
+
+The game will have 4 endings based on what kind of milk you give your wife.
+The left side is the Area you are in, and the right side is the command you type, (optional) steps can be skipped.
+
+Ending 1: Moon Milk
+	- bedroom: get blip
+	- bedroom: use blip
+	- hyperspace: go 1
+	- spaceship: get spacesuit
+	- spaceship: go moon
+	- moon: interact phineas
+	- (In interaction with phineas): asty-terb oon-merb ow-cerb ilk-merb
+	- moon: get moon milk
+	- moon: use blip
+	- hyperspace: go bedroom
+	- bedroom: go kitchen
+	- (optional) kitchen: interact wife
+	- (optional) (In interaction with wife): yes
+	- kitchen: use moon milk
+
+Ending 2: Mall Milk
+	- bedroom: get blip
+	- bedroom: use blip
+	- hyperspace: go 2
+	- airplane: interact captain
+	- (In interaction with captain): yes
+	- airplane: get laser gun
+	- airplane: use blip
+	- hyperspace: go 6
+	- parking: go mall
+	- (optional) mall: interact security
+	- (optional)(In interaction with security): yes
+	- mall: use laser gun
+	- mall: get mall milk
+	- mall: use blip
+	- hyperspace: go bedroom
+	- bedroom: go kitchen
+	- kitchen: use mall milk
+
+Ending 3: Galaxy Milk, there's a 10% chance you can have this ending.
+	- bedroom: get blip
+	- bedroom: use blip
+	- hyperspace: go 4
+	- deathStar: go control room
+	- controlRoom: go pantry
+	- pantry: go inside the fridge
+	- fridge: get galaxy milk //There's only 10% chance that galaxy milk will appear. 90% of the time, the item 'lunchbox' will be here instead, and if so, you can't have this ending.
+	- fridge: use blip
+	- hyperspace: go bedroom
+	- bedroom: go kitchen
+	- (optional) kitchen: interact wife
+	- (optional) (In interaction with wife): yes
+	- kitchen: use galaxy milk
+
+
+Ending 4: Free Milk, special ending. This ending is only possible if you sastify these conditions: ypu have no blip jump left, you are at bedroom, you are carrying no other milk, you are carrying the item 'note'.
+	- bedroom: get blip
+	- bedroom: use blip
+	- hyperspace: go 3
+	- hanoi: go city center
+	- cityCenter: get gold coin
+	- cityCenter: use blip
+	- hyperspace: go 5
+	- (optional) helsinki: interact homeless man
+	- (optional) (In interaction with homeless man): yes
+	- helsinki: use gold coin
+	- helsinki: get note
+	- helsinki: use blip
+	- hyperspace: go # (e.g. go 1) //You can go anywhere. The intention is to make your avaible blips equal zero when you arrive at bedroom.
+	- #: use blip
+	- hyperspace: go bedroom 
+	- bedroom: use note //You have to sastify all the conditions above
+	- bedroom: get free milk
+	- bedroom: go kitchen
+	- (optional) kitchen: interact wife
+	- (optional) (In interaction with wife): yes
+	- kitchen: use free milk
+	
